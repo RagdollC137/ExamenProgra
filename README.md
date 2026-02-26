@@ -25,4 +25,4 @@ Si usted llega a cometer errores tales como:
 - Poner un número que no esta en la lista
 - Dejar algún espacio en blanco
 - No colocar una forma de correo(No usar @)
-  Se le informara del error que cometió y podrá volver a intentar hacer la acción que deseaba anteriormente
+Se le informara del error que cometió y podrá volver a intentar hacer la acción que deseaba anteriormente
